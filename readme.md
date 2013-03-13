@@ -1,3 +1,4 @@
-Test of some changes
+ljc2
+====
 
-This is a second line of content that I have not added yet!
+London Java Community learning exercise repository
